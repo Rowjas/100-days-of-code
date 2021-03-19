@@ -23,3 +23,9 @@
 Progress: Порешал задачки на литкоде
 
 Thoughts: Определенно стоит позаниматься еще, это прокачивает понимание кода, логику, последовательное мышление + [вот ссылка на литкоде!](https://leetcode.com/problemset/all/)
+
+### R1D3(19.03)
+
+Progress: I solved few problems on leetcode but its didnt count(
+
+Thoughts: I dont very like sovle this problems, probably tomorrow i'll go to metanit
