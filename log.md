@@ -29,3 +29,9 @@ Thoughts: Определенно стоит позаниматься еще, э�
 Progress: I solved few problems on leetcode but its didnt count(
 
 Thoughts: I dont very like sovle this problems, probably tomorrow i'll go to metanit
+
+### R1D4(20/03)
+
+Progress: Tried again interfaces for comparing and clone
+
+Thoughts: Consolidate my knowledges about this interfaces, i almost end 6th chapter metanit
