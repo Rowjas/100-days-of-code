@@ -35,3 +35,39 @@ Thoughts: I dont very like sovle this problems, probably tomorrow i'll go to met
 Progress: Tried again interfaces for comparing and clone
 
 Thoughts: Consolidate my knowledges about this interfaces, i almost end 6th chapter metanit
+
+### R1D5(21/03)
+
+Progress: Finally, i end 6th chapter in metanit, against consolidate interfaces and explore covariancy and contravariancy
+
+Thoughts: Last themes was really boring, i so glad to end it, lets go
+
+### R1D6(22/03)
+
+Progress:
+
+Thoughts:
+
+### R1D7(23/03)
+
+Progress:
+
+Thoughts:
+
+### R1D8(24/03)
+
+Progress:
+
+Thoughts:
+
+### R1D9(25/03)
+
+Progress:
+
+Thoughts:
+
+### R1D10(26/03)
+
+Progress:
+
+Thoughts:
