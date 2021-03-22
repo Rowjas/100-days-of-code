@@ -44,9 +44,11 @@ Thoughts: Last themes was really boring, i so glad to end it, lets go
 
 ### R1D6(22/03)
 
-Progress:
+Progress:  Learn about Extension Methods; Learn about partial classes and methods; Learned C# coder way; Download Troelsen C# 7.0;
 
-Thoughts:
+Thoughts: I very motivated after read topic on dtf about becoming programmist on C#. Tomorrow i'll direct this energy to the Troelsen book, and maybe problems on leetcode, codewars or something similiar
+
+Good day, gay
 
 ### R1D7(23/03)
 
