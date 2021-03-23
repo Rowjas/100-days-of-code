@@ -52,9 +52,10 @@ Good day, gay
 
 ### R1D7(23/03)
 
-Progress:
+Progress: Start read Troelsen, learn acronyms - CTS(Common type system), CLR(common language runtime), BCL(base class library), CLS(common language specification);
+Learn about default params for methods; Tried again and consolidate external methods, anonym methods; 
 
-Thoughts:
+Thoughts: That is so good day, i really appreciate these days, i writing it at 17:57, which means day is not over yet));
 
 ### R1D8(24/03)
 
