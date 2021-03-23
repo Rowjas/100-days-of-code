@@ -56,6 +56,7 @@ Progress: Start read Troelsen, learn acronyms - CTS(Common type system), CLR(com
 Learn about default params for methods; Tried again and consolidate external methods, anonym methods; 
 
 Thoughts: That is so good day, i really appreciate these days, i writing it at 17:57, which means day is not over yet));
+https://leetcode.com/problems/trapping-rain-water/ - Решил
 
 (Troelsen page 55)
 
