@@ -57,6 +57,8 @@ Learn about default params for methods; Tried again and consolidate external met
 
 Thoughts: That is so good day, i really appreciate these days, i writing it at 17:57, which means day is not over yet));
 
+(Troelsen page 55)
+
 ### R1D8(24/03)
 
 Progress:
