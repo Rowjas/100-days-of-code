@@ -59,10 +59,11 @@ Thoughts: That is so good day, i really appreciate these days, i writing it at 1
 https://leetcode.com/problems/trapping-rain-water/ - Решил
 
 (Troelsen page 55)
+(I read 6 pages( so bad(((  I CAN BETTER BITCH)
 
 ### R1D8(24/03)
 
-Progress:
+Progress: new acronym - IL(check [evernote](https://www.evernote.com/shard/s519/sh/e218f5f0-f1f0-c82c-f968-7aadd8f2647a/8128e9310b61406bd83fdfafdc200810))
 
 Thoughts:
 
