@@ -63,9 +63,10 @@ https://leetcode.com/problems/trapping-rain-water/ - Решил
 
 ### R1D8(24/03)
 
-Progress: new acronym - IL(check [evernote](https://www.evernote.com/shard/s519/sh/e218f5f0-f1f0-c82c-f968-7aadd8f2647a/8128e9310b61406bd83fdfafdc200810))
+Progress: new acronym - IL(check [evernote](https://www.evernote.com/shard/s519/sh/e218f5f0-f1f0-c82c-f968-7aadd8f2647a/8128e9310b61406bd83fdfafdc200810)), i read 8 pages more, today i give code less than hour, unfortunately, but yesterday i give more than hour, and thats counts man
 
-Thoughts:
+Thoughts: Troelsen is fifty-fifty book, at least for very newbies, for me it seems a little bit hard to understand something, but basically i understand everything.GG
+Troelsen page - 63
 
 ### R1D9(25/03)
 
