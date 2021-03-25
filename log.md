@@ -70,11 +70,37 @@ Troelsen page - 63
 
 ### R1D9(25/03)
 
-Progress:
+Happy Birthday, MOOOOOOOOOOOOOOOOOM! I love u, but i dont like saying it, idk whats wrong with me, i loveu so much, u are best mother in the whole world
+
+Progress: solve [problem](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 Thoughts:
 
 ### R1D10(26/03)
+
+Progress:
+
+Thoughts:
+
+### R1D11(27/03)
+
+Progress:
+
+Thoughts:
+
+### R1D12(28/03)
+
+Progress:
+
+Thoughts:
+
+### R1D13(29/03)
+
+Progress:
+
+Thoughts:
+
+### R1D14(30/03)
 
 Progress:
 
