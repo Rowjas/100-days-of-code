@@ -72,9 +72,11 @@ Troelsen page - 63
 
 Happy Birthday, MOOOOOOOOOOOOOOOOOM! I love u, but i dont like saying it, idk whats wrong with me, i loveu so much, u are best mother in the whole world
 
-Progress: solve [problem](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+Progress: solve [problem](https://leetcode.com/problems/median-of-two-sorted-arrays/), TROELSEN 73(10 pages, almost 11, better and better every day)
 
-Thoughts:
+Thoughts: I think i really need to stop procrastinating, thats kill maximum of my time, i think day was saturated by proc, thats my old wearness, i need to destroy it. Hope when mom buy me Iodemarin something would change
+
+bb, in 3 days  i read 24 pages. Its more than at fst day for 4 times => i overtaking plan for 1 day
 
 ### R1D10(26/03)
 
