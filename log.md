@@ -80,7 +80,9 @@ bb, in 3 days i read 24 pages. Its more than at fst day for 4 times => i overtak
 
 Progress: I tried to write some things in html and xml, that was a little bit funny, I download ReSharper, and learn more and more about C# work under the hood, got acquainted with the игшде-шт application - ildasm. It allows explore libraries, allows see CIL code of projects, and that code was so weird, learn that Mono died  probably.
 
-Thoughts:
+TROELSEN 82
+
+Thoughts: 82 page - i read 33 pages. If speed had been 6 page per day i would have been read only 24. Overtake is 9 pages
 
 ### R1D11(28/03)
 
