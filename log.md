@@ -74,33 +74,27 @@ Progress: solve [problem](https://leetcode.com/problems/median-of-two-sorted-arr
 
 Thoughts: I think i really need to stop procrastinating, thats kill maximum of my time, i think day was saturated by proc, thats my old wearness, i need to destroy it. Hope when mom buy me Iodemarin something would change
 
-bb, in 3 days  i read 24 pages. Its more than at fst day for 4 times => i overtaking plan for 1 day
+bb, in 3 days i read 24 pages. Its more than at fst day for 4 times => i overtaking plan for 1 day
 
-### R1D10(26/03)
+### R1D10(27/03)
+
+Progress: I tried to write some things in html and xml, that was a little bit funny, I download ReSharper, and learn more and more about C# work under the hood, got acquainted with the игшде-шт application - ildasm. It allows explore libraries, allows see CIL code of projects, and that code was so weird, learn that Mono died  probably.
+
+Thoughts:
+
+### R1D11(28/03)
 
 Progress:
 
 Thoughts:
 
-### R1D11(27/03)
+### R1D12(29/03)
 
 Progress:
 
 Thoughts:
 
-### R1D12(28/03)
-
-Progress:
-
-Thoughts:
-
-### R1D13(29/03)
-
-Progress:
-
-Thoughts:
-
-### R1D14(30/03)
+### R1D13(30/03)
 
 Progress:
 
