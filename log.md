@@ -86,9 +86,9 @@ Thoughts: 82 page - i read 33 pages. If speed had been 6 page per day i would ha
 
 ### R1D11(28/03)
 
-Progress:
+Progress: read about binary search, and sure started Groking Algorythms. Start at 17 page, im on 32, i think thhats good
 
-Thoughts:
+Thoughts: This book easier to read instead of Troelsen, it is more understandable, i really want to read it more. gg
 
 ### R1D12(29/03)
 
