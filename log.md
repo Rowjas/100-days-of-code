@@ -92,9 +92,9 @@ Thoughts: This book easier to read instead of Troelsen, it is more understandabl
 
 ### R1D12(29/03)
 
-Progress:
+Progress: Start explore choice sort, page 58 monster
 
-Thoughts:
+Thoughts: i didnt notice that i read 26 pages, i think this is how a book should be read gr
 
 ### R1D13(30/03)
 
