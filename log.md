@@ -98,6 +98,6 @@ Thoughts: i didnt notice that i read 26 pages, i think this is how a book should
 
 ### R1D13(30/03)
 
-Progress:
+Progress: Write a select sort, interpritate Aditya code to C#, discover new class Stack and 2 methods in it. Stack.Pop - return first object of stack and delete it. Finish Select sort - 2 chapter of book groking algorythms;
 
-Thoughts:
+Thoughts: I very like this book, i can look to some situation at different angle, its very cool. Tomorrow i think ill be read Troelsen. Maybe ill skip one chapter and start learning almost C#, not conception of .NET etc.
