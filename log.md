@@ -106,6 +106,8 @@ Thoughts: I very like this book, i can look to some situation at different angle
 
 ### R1D14(01/04)
 
+Skip much of pages in Troelsen, and now im on 99
+
 Progress:
 
 Thoughts: 
