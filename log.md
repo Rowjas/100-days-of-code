@@ -108,7 +108,24 @@ Thoughts: I very like this book, i can look to some situation at different angle
 
 Skip much of pages in Troelsen, and now im on 99
 
+Progress: I didnt found a good question for solve,(((((
+
+Thoughts: (((((((((((
+
+### R1D15(02/04)
+
 Progress:
 
-Thoughts: 
+Thoughts
 
+### R1D16(03/04)
+
+Progress:
+
+Thoughts
+
+### R1D16(04/04)
+
+Progress:
+
+Thoughts
