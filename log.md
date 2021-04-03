@@ -112,15 +112,9 @@ Progress: I didnt found a good question for solve,(((((
 
 Thoughts: (((((((((((
 
-### R1D15(02/04)
+### R1D15(03/04)
 
-Progress:
-
-Thoughts
-
-### R1D16(03/04)
-
-Progress:
+Progress: решил задачу https://edabit.com/challenge/ny83khdmye4JsJRqS; 12 55 пока все
 
 Thoughts
 
