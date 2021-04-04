@@ -120,6 +120,6 @@ Thoughts
 
 ### R1D16(04/04)
 
-Progress:
+Progress: закрепил ref out in,
 
-Thoughts
+Thoughts оч медленно продвигаться стал(
